@@ -43,7 +43,7 @@
 | **[Cortex Analyst](https://github.com/PythonMLClub/Cortex-Analyst-main)** | LLM → SQL assistant • Streamlit UI |
 | **[Cortex Search](https://github.com/PythonMLClub/CortexSearch-main)** | Hybrid semantic search over PDFs/CSVs |
 | **[Anomaly Forecasting](https://github.com/PythonMLClub/Anomaly_Forecasting_Snowflake)** | Snowflake SQL ML • Time-series |
-| **[Face Attendance App](https://github.com/PythonMLClub/Face-Recognition-Attendance-Tracker)** | YOLOv8 • ArcFace • Streamlit dashboards |
+| **[Face Attendance App]([https://github.com/PythonMLClub/Face-Recognition-Attendance-Tracker](https://github.com/PythonMLClub/Face-Recognition-Attendance-Tracking-System-from-CCTV-Surveillance))** | YOLOv8 • ArcFace • Streamlit dashboards |
 
 ---
 
