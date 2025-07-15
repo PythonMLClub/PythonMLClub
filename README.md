@@ -8,9 +8,9 @@
      src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/21710fff-b970-4bb8-8eea-aea5455347a5/top-python-libraries-you-need-to-master-for-ai-in-2025.png?t=1740472650">
 
 ### 👩‍💻 About Me
-- 🔭 Currently **Python Developer @ Texila Educare Healthcare**  
-- 🏢 Prev: **PBS Info Systems** | **Dot Com Infoway**  
-- 🚀 Building AI-powered search, document pipelines & real-time CV dashboards with **YOLOv8 + ArcFace + FAISS**  
+- 🔭 Currently **Python Developer @ TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES PRIVATE LIMITED**  
+- 🏢 Prev: **PBS Info systems Pvt Ltd** | **Dot Com Infoway Pvt**  
+- 🚀 Building AI-powered search, document pipelines & real-time CV dashboards with **YOLOv8 + ArcFace + FAISS + CNN**  
 - 🌱 Deep-diving into **LangChain**, **LLM prompt-engineering**, multi-modal AI  
 - ✨ Fun fact: I turn ☕ into Python scripts faster than you can say “Snowflake Cortex”!  
 
@@ -21,11 +21,11 @@
 ---
 
 ## I code in 💻
-<img height="42" src="https://img.icons8.com/color/48/python.png"/><img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/><img height="42" src="https://img.icons8.com/color/48/mysql-logo.png"/><img height="42" src="https://img.icons8.com/color/48/html-5.png"/><img height="42" src="https://img.icons8.com/color/48/css3.png"/><img height="42" src="https://img.icons8.com/color/48/javascript.png"/><img height="42" src="https://img.icons8.com/color/48/react-native.png"/><img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img height="42" src="https://img.icons8.com/color/48/python.png"/>  <img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>  <img height="42" src="https://img.icons8.com/color/48/mysql-logo.png"/><img height="42" src="https://img.icons8.com/color/48/html-5.png"/><img height="42" src="https://img.icons8.com/color/48/css3.png"/><img height="42" src="https://img.icons8.com/color/48/javascript.png"/><img height="42" src="https://img.icons8.com/color/48/react-native.png"/><img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 
 
 ### 🤖 AI / ML Toolkit
-`YOLOv8` • `ArcFace` • `FAISS` • `Scikit-learn` • `LangChain` • `LLM / NLP` • `Time-Series Forecasting`
+`YOLOv8` • `ArcFace` • `FAISS` • `Scikit-learn` • `LangChain` • `LLM / NLP` • `Time-Series Forecasting` • `CNN` 
 
 ### ❄️ Data & Cloud
 `Snowflake  |  Cortex Agent · Search · Analyst · Complete`  
