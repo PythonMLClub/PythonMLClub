@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**PythonMLClub/PythonMLClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Dhanupriya-Profile
 
 
@@ -63,5 +58,3 @@
 ---
 
 > ⭐️ **Explore my work & say hello:** <https://pythonmlclub.github.io/Portfolio/>
-
--->
