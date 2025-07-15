@@ -21,7 +21,7 @@
 ---
 
 ## I code in 💻
-<img height="42" src="https://img.icons8.com/color/48/python.png"/>  <img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>  <img height="42" src="https://img.icons8.com/color/48/mysql-logo.png"/><img height="42" src="https://img.icons8.com/color/48/html-5.png"/><img height="42" src="https://img.icons8.com/color/48/css3.png"/><img height="42" src="https://img.icons8.com/color/48/javascript.png"/><img height="42" src="https://img.icons8.com/color/48/react-native.png"/><img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+<img height="42" src="https://img.icons8.com/color/48/python.png"/>   <img height="42" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>   <img height="42" src="https://img.icons8.com/color/48/mysql-logo.png"/>   <img height="42" src="https://img.icons8.com/color/48/html-5.png"/>   <img height="42" src="https://img.icons8.com/color/48/css3.png"/>   <img height="42" src="https://img.icons8.com/color/48/javascript.png"/>   <img height="42" src="https://img.icons8.com/color/48/react-native.png"/>   <img height="42" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
 
 
 ### 🤖 AI / ML Toolkit
@@ -32,7 +32,7 @@
 `Apache Airflow` • `Azure Blob Storage` • `Parquet / JSON ETL`
 
 ### 🛠️ IDE & Tools
-<img height="38" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/><img height="38" src="https://img.icons8.com/color/48/jupyter.png"/><img height="38" src="https://img.icons8.com/color/48/github.png"/><img height="38" src="https://img.icons8.com/nolan/48/postman-api.png"/><img height="38" src="https://img.icons8.com/color/48/google-colab.png"/>
+<img height="38" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>   <img height="38" src="https://img.icons8.com/color/48/jupyter.png"/>   <img height="38" src="https://img.icons8.com/color/48/github.png"/>   <img height="38" src="https://img.icons8.com/nolan/48/postman-api.png"/>   <img height="38" src="https://img.icons8.com/color/48/google-colab.png"/>
 
 ---
 
