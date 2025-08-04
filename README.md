@@ -148,6 +148,6 @@
 
 ### 🔗 Connect with Me
 
-- 🌐 **Portfolio:** [pythonmlclub.github.io/Portfolio](https://pythonmlclub.github.io/Portfolio)  
+- 🌐 **Portfolio:** [pythonmlclub.github.io/Portfolio](https://pythonmlclub.github.io/Portfolio_Dhanu/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/dhanupriya-arivanantham-3ba2ab248)  
 - 📧 dhanumduworkid@gmail.com  
