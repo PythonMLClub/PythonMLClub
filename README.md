@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About Me
 - 🧠 Python & AI Developer with **3+ years** of experience in intelligent search, ML pipelines, and real-time analytics  
-- 🏢 Currently **Python Developer at TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES Pvt Ltd**  
+- 🏢 Previously worked at **Python Developer at TEXILA EDUCARE HEALTHCARE AND TECHNOLOGY ENTERPRISES Pvt Ltd**  
 - 🏢 Previously at **PBS Info Systems Pvt Ltd** and **Dot Com Infoway Ltd**  
 - 🧰 Pro in **YOLOv8 + ArcFace + FAISS**, real-time dashboards, and Document AI
 - 🚀 Building AI-powered search, document pipelines & real-time CV dashboards with **YOLOv8 + ArcFace + FAISS + CNN**  
