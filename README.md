@@ -147,7 +147,7 @@
 
 * 🌐 **Portfolio:** [pythonmlclub.github.io/Portfolio](https://pythonmlclub.github.io/Portfolio_Dhanu/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/dhanupriya-arivanantham-3ba2ab248)
-* 📧 **[dhanupriyaagenai@gmail.com](mailto:dhanupriyaagenai@gmail.com)** (updated from resume). 
+* 📧 **[dhanupriyaagenai@gmail.com](mailto:dhanupriyaagenai@gmail.com)** 
 
 ---
 
