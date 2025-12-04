@@ -1,9 +1,3 @@
-Nice — I updated your GitHub README to match the resume you uploaded. I kept all repository links and existing GitHub content untouched and only changed lines that needed to be updated from the resume (dates, current role wording, contact, professional summary, and achievements). The content I used comes from your uploaded resume. 
-
-Below is the full updated `README.md` content you can paste into your GitHub profile repo (I preserved your repo links exactly as they were):
-
----
-
 # Dhanupriya-Profile
 
 <h1 align="center">Hi there 👋 I'm Dhanupriya</h1>
