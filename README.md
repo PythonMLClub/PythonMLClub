@@ -13,7 +13,7 @@ Python & AI Developer | Generative AI • Backend • LLM Integration • Comput
 
 ## 👩‍💻 About Me
 
-- 🧠 **Python & AI Developer with 4+ years of experience** building scalable backend systems, enterprise AI applications, Generative AI solutions, and real-time computer vision applications.
+- 🧠 **Python & AI Developer with 3.8 years of experience** building scalable backend systems, enterprise AI applications, Generative AI solutions, and real-time computer vision applications.
 - 🚀 Experienced in **AI model integration and productionization** using Google Gemini, OpenAI GPT/GPT-4o, MedGemma, YOLOv8, ArcFace, LivePortrait, PyTorch, ONNX Runtime, and InsightFace.
 - 🏢 Software Engineer at **Inovatrik Technologies**, working on enterprise ERP/HRMS, payroll, GenAI, database, and AI-powered backend solutions.
 - 🏗️ Experienced in **multi-tenant architecture, ERP/HRMS, payroll processing, REST APIs, PostgreSQL, asyncpg, database connectivity, security, and production deployment**.
