@@ -87,7 +87,7 @@ Python & AI Developer | Generative AI • Backend • LLM Integration • Comput
 
 ## Python / ML Developer
 
-**Jan 2024 – Apr 2025 | Madurai, Tamil Nadu**
+**Feb 2024 – Apr 2025 | Madurai, Tamil Nadu**
 
 ### 📄 Document AI & ETL Pipeline
 
@@ -116,7 +116,7 @@ Python & AI Developer | Generative AI • Backend • LLM Integration • Comput
 
 ## Junior Python Developer
 
-**Sep 2022 – Dec 2023 | Madurai, Tamil Nadu**
+**Nov 2022 – Dec 2023 | Madurai, Tamil Nadu**
 
 ### 💬 AI-Powered Women's Safety & Health Chatbot
 
